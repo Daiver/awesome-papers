@@ -18,3 +18,5 @@ Pool requests are welcomed
 - A Practical Guide to Support Vector Classification - a practical guide to support vector classifivation (lol)
 
 - Pegasos: Primal Estimated sub-GrAdient SOlver for SVM - description of good SGD based SVM learning algorithm with good theorethical properties
+
+- Training a Support Vector Machine in the Primal - algorithm for solving primal version of SVM problem via smooth loss and Newton algorithm.
