@@ -23,4 +23,6 @@ Pool requests are welcomed
 
 ##SGD
 
+- large-scale machine learning revisited - good justification why SGD outperforms traditional approaches
+
 - Large-Scale Machine Learning with Stochastic Gradient Descent - brief introduction of SGD
