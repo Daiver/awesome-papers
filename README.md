@@ -16,3 +16,5 @@ Pool requests are welcomed
 - http://efavdb.com/svm-classification/ - small but nice tutorial with derivation of Dual Problem and recomendations for SVM usage
 
 - A Practical Guide to Support Vector Classification - a practical guide to support vector classifivation (lol)
+
+- Pegasos: Primal Estimated sub-GrAdient SOlver for SVM - description of good SGD based SVM learning algorithm with good theorethical properties
