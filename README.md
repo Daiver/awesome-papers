@@ -20,3 +20,7 @@ Pool requests are welcomed
 - Pegasos: Primal Estimated sub-GrAdient SOlver for SVM - description of good SGD based SVM learning algorithm with good theorethical properties
 
 - Training a Support Vector Machine in the Primal - algorithm for solving primal version of SVM problem via smooth loss and Newton algorithm.
+
+##SGD
+
+- Large-Scale Machine Learning with Stochastic Gradient Descent - brief introduction of SGD
