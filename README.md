@@ -12,3 +12,7 @@ Pool requests are welcomed
 - Support Vector and Kernel Machines - yet another brief SVM tutorial
 
 - A Gentle Introduction to Support Vector Machines in Biomedicine - good survey to different applications of SVM
+
+- http://efavdb.com/svm-classification/ - small but nice tutorial with derivation of Dual Problem and recomendations for SVM usage
+
+- A Practical Guide to Support Vector Classification - a practical guide to support vector classifivation (lol)
