@@ -33,4 +33,5 @@ Pool requests are welcomed
 
 - http://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/ - good AD digest without tech details
 
+- http://h2.jaguarpaw.co.uk/posts/reverse-mode-automatic-differentiation/ - nice implementation of reverse mode autodiff via Haskell
 
