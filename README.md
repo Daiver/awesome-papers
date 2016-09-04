@@ -26,3 +26,11 @@ Pool requests are welcomed
 - large-scale machine learning revisited - good justification why SGD outperforms traditional approaches
 
 - Large-Scale Machine Learning with Stochastic Gradient Descent - brief introduction of SGD
+
+
+#Optimization
+##Automatic Differentiation
+
+- http://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/ - good AD digest without tech details
+
+
