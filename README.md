@@ -35,3 +35,8 @@ Pool requests are welcomed
 
 - http://h2.jaguarpaw.co.uk/posts/reverse-mode-automatic-differentiation/ - nice implementation of reverse mode autodiff via Haskell
 
+#Math
+
+##Linear algebra
+
+- Matrix Algebra Theory, Computations, and Applications in Statistics - just good book
