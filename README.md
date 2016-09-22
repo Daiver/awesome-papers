@@ -29,6 +29,11 @@ Pool requests are welcomed
 
 
 #Optimization
+
+##Conjugate gradient method
+
+- An Introduction to the Conjugate Gradient Method Without the Agonizing Pain - maybe best paper about optimization algorithm which i ever seen
+
 ##Automatic Differentiation
 
 - http://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/ - good AD digest without tech details
