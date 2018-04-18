@@ -45,3 +45,11 @@ Pool requests are welcomed
 ##Linear algebra
 
 - Matrix Algebra Theory, Computations, and Applications in Statistics - just good book
+
+#Geometry
+
+##SLAM
+
+- CURVESLAM: UTILIZING HIGHER LEVEL STRUCTURE IN STEREO VISION-BASED NAVIGATION. - good list of 3d curve 2 image fitting
+
+
