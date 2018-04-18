@@ -5,7 +5,7 @@ Pool requests are welcomed
 
 (Sorry for my poor English)
 
-#Machine learning
+# Machine learning
 ## SVM
 - An Idiot’s guide to Support vector machines (SVMs) - nice but too brief introduction into SVM
 
@@ -21,34 +21,34 @@ Pool requests are welcomed
 
 - Training a Support Vector Machine in the Primal - algorithm for solving primal version of SVM problem via smooth loss and Newton algorithm.
 
-##SGD
+## SGD
 
 - large-scale machine learning revisited - good justification why SGD outperforms traditional approaches
 
 - Large-Scale Machine Learning with Stochastic Gradient Descent - brief introduction of SGD
 
 
-#Optimization
+# Optimization
 
-##Conjugate gradient method
+## Conjugate gradient method
 
 - An Introduction to the Conjugate Gradient Method Without the Agonizing Pain - maybe best paper about optimization algorithm which i ever seen
 
-##Automatic Differentiation
+## Automatic Differentiation
 
 - http://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/ - good AD digest without tech details
 
 - http://h2.jaguarpaw.co.uk/posts/reverse-mode-automatic-differentiation/ - nice implementation of reverse mode autodiff via Haskell
 
-#Math
+# Math
 
-##Linear algebra
+## Linear algebra
 
 - Matrix Algebra Theory, Computations, and Applications in Statistics - just good book
 
-#Geometry
+# Geometry
 
-##SLAM
+## SLAM
 
 - CURVESLAM: UTILIZING HIGHER LEVEL STRUCTURE IN STEREO VISION-BASED NAVIGATION. - good list of 3d curve 2 image fitting
 
