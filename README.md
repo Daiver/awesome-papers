@@ -40,6 +40,8 @@ Pool requests are welcomed
 
 - http://h2.jaguarpaw.co.uk/posts/reverse-mode-automatic-differentiation/ - nice implementation of reverse mode autodiff via Haskell
 
+- https://people.maths.ox.ac.uk/gilesm/files/NA-08-01.pdf - a lot of great expressions for forward/reverse mode autodiff
+
 # Math
 
 ## Linear algebra
